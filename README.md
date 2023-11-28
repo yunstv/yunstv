@@ -15,6 +15,4 @@
       <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yunstv&show_icons=true" />
     </picture>
   </a>
-  &nbsp;
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunstv&hide_progress=true" />
 </p>
